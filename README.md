@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Röbbe Wünschiers
+- 👋 Hi, I love the programming language AWK, therefore: Awkologist 🦖
 - 👀 I’m interested in life sciences, currently with a focus on biohydrogen, bioaerosols, pollination and dog genetics
 - 🌱 I’m currently learning how to get my interests and obligation organized
 - 💞️ I’m looking to collaborate on genetic data analysis and interpretation
